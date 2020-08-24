@@ -7,3 +7,4 @@ def meal_choice (veg1,veg2,protein)
   return meal_choice
 end
 
+meal_choice(tofu,beans,carrots)
